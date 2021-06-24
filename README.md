@@ -7,7 +7,7 @@
 
 <a name="description"></a>
 # Project Description
-* **myRMIT** is an Android application that aims to provide the functionalities that would help students at RMIT University to connect with the services and study better
+* **myRMIT** is an Android application that aims to provide the functionalities that would help students at RMIT University to connect with the services and study better. For authentication and database of this applicaton, we used Firebase Authentication and Firestore
 * Some features including:
     * User login and user authentication
     * Student's record
@@ -17,7 +17,7 @@
     * Club information and registration
     * News
     * Contact for different RMIT services
-* Full documentation can be found in `doc` folder
+* Full documentation can be found in `doc` folder 
 
 <a name="screenshots"></a>
 ## App screenshots
@@ -37,9 +37,7 @@
 <p align="center">News feed</p>
 
 <a name="credits"></a>
-## Credits
-- [Bao Tran](https://github.com/s3740819)
-- [Binh Phan](https://github.com/bmo8699)
+
 
 
 
