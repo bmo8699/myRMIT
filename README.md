@@ -3,7 +3,6 @@
 ### Table of Contents
 * [Project Description](#description)
 * [App screenshots](#screenshots)
-* [Credits](#credits)
 
 <a name="description"></a>
 # Project Description
